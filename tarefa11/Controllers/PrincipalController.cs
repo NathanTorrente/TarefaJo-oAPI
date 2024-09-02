@@ -24,7 +24,7 @@ namespace tarefa11.Controllers
         [HttpGet("Autor")]
         public IActionResult GetAutor() 
         {
-        return Ok("Feito por UsuárioAnonimo");
+        return Ok("Feito por Nathan");
         }
     }
 }

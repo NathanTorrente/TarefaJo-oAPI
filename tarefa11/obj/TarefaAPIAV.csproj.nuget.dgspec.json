@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\tarefa11.csproj": {}
+    "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\TarefaAPIAV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\tarefa11.csproj": {
+    "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\TarefaAPIAV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\tarefa11.csproj",
-        "projectName": "tarefa11",
-        "projectPath": "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\tarefa11.csproj",
+        "projectUniqueName": "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\TarefaAPIAV.csproj",
+        "projectName": "TarefaAPIAV",
+        "projectPath": "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\TarefaAPIAV.csproj",
         "packagesPath": "C:\\Users\\Família Torrente\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\obj\\",
         "projectStyle": "PackageReference",

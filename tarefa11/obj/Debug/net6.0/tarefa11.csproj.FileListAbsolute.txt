@@ -30,3 +30,36 @@ C:\Users\2022102020009\source\repos\tarefa11\tarefa11\obj\Debug\net6.0\refint\ta
 C:\Users\2022102020009\source\repos\tarefa11\tarefa11\obj\Debug\net6.0\tarefa11.pdb
 C:\Users\2022102020009\source\repos\tarefa11\tarefa11\obj\Debug\net6.0\tarefa11.genruntimeconfig.cache
 C:\Users\2022102020009\source\repos\tarefa11\tarefa11\obj\Debug\net6.0\ref\tarefa11.dll
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\appsettings.json
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\tarefa11.exe
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\tarefa11.deps.json
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\tarefa11.runtimeconfig.json
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\tarefa11.dll
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\tarefa11.pdb
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.csproj.AssemblyReference.cache
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.AssemblyInfoInputs.cache
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.AssemblyInfo.cs
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.csproj.CoreCompileInputs.cache
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.sourcelink.json
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\staticwebassets\msbuild.tarefa11.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\staticwebassets\msbuild.build.tarefa11.props
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.tarefa11.props
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.tarefa11.props
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\scopedcss\bundle\tarefa11.styles.css
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.csproj.Up2Date
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.dll
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\refint\tarefa11.dll
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.pdb
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\tarefa11.genruntimeconfig.cache
+C:\Users\Família Torrente\Desktop\pds\Aula_API\tarefa11\obj\Debug\net6.0\ref\tarefa11.dll
