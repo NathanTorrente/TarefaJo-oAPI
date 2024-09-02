@@ -1,26 +1,29 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\",
+  "WorkspaceRootPath": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\tarefa11.csproj|c:\\users\\fam\u00EDlia torrente\\desktop\\pds\\aula_api\\tarefa11\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\tarefa11.csproj|solutionrelative:tarefa11\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\TarefaAPIAV.csproj|c:\\users\\fam\u00EDlia torrente\\desktop\\pds\\tarefajo-oapi\\tarefa11\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\TarefaAPIAV.csproj|solutionrelative:tarefa11\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\tarefa11.csproj|c:\\users\\fam\u00EDlia torrente\\desktop\\pds\\aula_api\\tarefa11\\controllers\\principalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\tarefa11.csproj|solutionrelative:tarefa11\\controllers\\principalcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\TarefaAPIAV.csproj|c:\\users\\fam\u00EDlia torrente\\desktop\\pds\\tarefajo-oapi\\tarefa11\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\TarefaAPIAV.csproj|solutionrelative:tarefa11\\controllers\\fornecedorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\tarefa11.csproj|c:\\users\\fam\u00EDlia torrente\\desktop\\pds\\aula_api\\tarefa11\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\tarefa11.csproj|solutionrelative:tarefa11\\models\\fornecedor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\TarefaAPIAV.csproj|c:\\users\\fam\u00EDlia torrente\\desktop\\pds\\tarefajo-oapi\\tarefa11\\controllers\\fornecedorsalvtxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\TarefaAPIAV.csproj|solutionrelative:tarefa11\\controllers\\fornecedorsalvtxt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\tarefa11.csproj|c:\\users\\fam\u00EDlia torrente\\desktop\\pds\\aula_api\\tarefa11\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\tarefa11.csproj|solutionrelative:tarefa11\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\TarefaAPIAV.csproj|c:\\users\\fam\u00EDlia torrente\\desktop\\pds\\tarefajo-oapi\\tarefa11\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\TarefaAPIAV.csproj|solutionrelative:tarefa11\\dtos\\fornecedordto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\tarefa11.csproj|c:\\users\\fam\u00EDlia torrente\\desktop\\pds\\aula_api\\tarefa11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\tarefa11.csproj|solutionrelative:tarefa11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\TarefaAPIAV.csproj|c:\\users\\fam\u00EDlia torrente\\desktop\\pds\\tarefajo-oapi\\tarefa11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C32697BC-1174-4D21-8DCD-607DD4B7724A}|tarefa11\\TarefaAPIAV.csproj|solutionrelative:tarefa11\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|E:\\Downloads\\Down-load\\response_1725261259225.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,30 +33,53 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "response_1725261259225.json",
+              "DocumentMoniker": "E:\\Downloads\\Down-load\\response_1725261259225.json",
+              "ToolTip": "E:\\Downloads\\Down-load\\response_1725261259225.json",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-02T07:14:26.887Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "FornecedorSalvTXT.cs",
+              "DocumentMoniker": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\Controllers\\FornecedorSalvTXT.cs",
+              "RelativeDocumentMoniker": "tarefa11\\Controllers\\FornecedorSalvTXT.cs",
+              "ToolTip": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\Controllers\\FornecedorSalvTXT.cs",
+              "RelativeToolTip": "tarefa11\\Controllers\\FornecedorSalvTXT.cs",
+              "ViewState": "AQIAACsAAAAAAAAAAAAgwBAAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T06:50:21.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Fornecedor.cs",
-              "DocumentMoniker": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\Models\\Fornecedor.cs",
+              "DocumentMoniker": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\Models\\Fornecedor.cs",
               "RelativeDocumentMoniker": "tarefa11\\Models\\Fornecedor.cs",
-              "ToolTip": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\Models\\Fornecedor.cs",
+              "ToolTip": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\Models\\Fornecedor.cs",
               "RelativeToolTip": "tarefa11\\Models\\Fornecedor.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T03:37:48.795Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "FornecedorController.cs",
-              "DocumentMoniker": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\Controllers\\FornecedorController.cs",
+              "DocumentMoniker": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\Controllers\\FornecedorController.cs",
               "RelativeDocumentMoniker": "tarefa11\\Controllers\\FornecedorController.cs",
-              "ToolTip": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\Controllers\\FornecedorController.cs",
+              "ToolTip": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\Controllers\\FornecedorController.cs",
               "RelativeToolTip": "tarefa11\\Controllers\\FornecedorController.cs",
-              "ViewState": "AQIAACcAAAAAAAAAAAAowBYAAAATAAAA",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAqwAoAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T03:37:06.763Z",
               "EditorCaption": ""
@@ -62,40 +88,26 @@
               "$type": "Document",
               "DocumentIndex": 3,
               "Title": "FornecedorDTO.cs",
-              "DocumentMoniker": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\Dtos\\FornecedorDTO.cs",
+              "DocumentMoniker": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\Dtos\\FornecedorDTO.cs",
               "RelativeDocumentMoniker": "tarefa11\\Dtos\\FornecedorDTO.cs",
-              "ToolTip": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\Dtos\\FornecedorDTO.cs",
+              "ToolTip": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\Dtos\\FornecedorDTO.cs",
               "RelativeToolTip": "tarefa11\\Dtos\\FornecedorDTO.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAA5wAkAAAAAAAAA",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAmwBYAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-09-02T03:35:58.1Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PrincipalController.cs",
-              "DocumentMoniker": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\Controllers\\PrincipalController.cs",
-              "RelativeDocumentMoniker": "tarefa11\\Controllers\\PrincipalController.cs",
-              "ToolTip": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\Controllers\\PrincipalController.cs",
-              "RelativeToolTip": "tarefa11\\Controllers\\PrincipalController.cs",
-              "ViewState": "AQIAAAsAAAAAAAAAAAAQwBoAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T03:06:20.706Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\Program.cs",
               "RelativeDocumentMoniker": "tarefa11\\Program.cs",
-              "ToolTip": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\Program.cs",
+              "ToolTip": "C:\\Users\\Fam\u00EDlia Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\Program.cs",
               "RelativeToolTip": "tarefa11\\Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-02T03:06:20.706Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-02T03:06:20.706Z"
             }
           ]
         }

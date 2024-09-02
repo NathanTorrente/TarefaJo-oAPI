@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "J9qGViL7H/Q=",
+  "dgSpecHash": "PW4yBQtGSlI=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\TarefaAPIAV.csproj",
+  "projectFilePath": "C:\\Users\\Família Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\TarefaAPIAV.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Família Torrente\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
     "C:\\Users\\Família Torrente\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",

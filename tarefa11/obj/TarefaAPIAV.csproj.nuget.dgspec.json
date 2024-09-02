@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\TarefaAPIAV.csproj": {}
+    "C:\\Users\\Família Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\TarefaAPIAV.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\TarefaAPIAV.csproj": {
+    "C:\\Users\\Família Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\TarefaAPIAV.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\TarefaAPIAV.csproj",
+        "projectUniqueName": "C:\\Users\\Família Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\TarefaAPIAV.csproj",
         "projectName": "TarefaAPIAV",
-        "projectPath": "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\TarefaAPIAV.csproj",
+        "projectPath": "C:\\Users\\Família Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\TarefaAPIAV.csproj",
         "packagesPath": "C:\\Users\\Família Torrente\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Família Torrente\\Desktop\\pds\\Aula_API\\tarefa11\\obj\\",
+        "outputPath": "C:\\Users\\Família Torrente\\Desktop\\pds\\TarefaJo-oAPI\\tarefa11\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Família Torrente\\AppData\\Roaming\\NuGet\\NuGet.Config"
